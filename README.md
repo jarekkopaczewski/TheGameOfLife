@@ -11,7 +11,7 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 ## Simulation
-<img src="https://github.com/jarekkopaczewski/TheGameOfLife/blob/972ac9aa8a5105beb16e2f162c65242015ae07f3/GameOfLife.gif" height="600"/>
+<img src="https://github.com/jarekkopaczewski/TheGameOfLife/blob/972ac9aa8a5105beb16e2f162c65242015ae07f3/GameOfLife.gif" />
 
 ## Built With
 
